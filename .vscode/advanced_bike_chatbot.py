@@ -8,7 +8,7 @@ import os
 import nltk
 from nltk.tokenize import sent_tokenize
 
-# --- PRE-LOAD NLTK DATA ---
+# --- PRE-LOAD NLTK DATA fahhhhh ---
 try:
     nltk.download('punkt', quiet=True)
     nltk.download('punkt_tab', quiet=True)
