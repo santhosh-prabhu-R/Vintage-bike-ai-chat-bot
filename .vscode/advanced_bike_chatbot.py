@@ -52,7 +52,7 @@ bike_image_map = {
 }
 
 # -------------------------------
-# RESPONSE & IMAGE LOGIC
+# RESPONSE & IMAGE LOGICCC
 # -------------------------------
 def get_response(user_input):
     user_input_clean = user_input.lower().strip()
